@@ -4,9 +4,9 @@
 _An Amtsgericht Kreuzberg_
 <br>_10.06.2023_
 
-_der öffentliche Brief wurde leicht verändert_
+_Der öffentliche Brief wurde leicht von der Version ans Amtsgericht verändert. (Damit er schöner aussieht.)_
 
-_weder Vor- noch Nachname wird aus datenschutzrechtlichen Gründen benannt_
+_Es werden aus datenschutzrechtlichen Gründen weder Vor- noch Nachname vollständig benannt._
 
 Sehr geehrte Damen und Herren,
 <br>kaum zu glauben, dass Ich Ihnen dies mitteilen muss,
